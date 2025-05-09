@@ -6,10 +6,10 @@
 
 # CiteWise AI: the integration of topic outlines via retrieval and multiple-perspective questioning.
 
-## Overview [(Try CiteWise now!)]()
+## Overview 
 
 <p align="center">
-  <img src="assets/overview.svg" style="width: 90%; height: auto;">
+  <img src="assets/logo.svg" style="width: 90%; height: auto;">
 </p>
 Citewise AI is a LLM system that writes Wikipedia-like articles from scratch based on Internet search. Lunarrot further enhanced its feature by enabling human to collaborative LLM system to support more aligned and preferred information seeking and knowledge curation.
 
